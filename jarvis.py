@@ -19,7 +19,7 @@ client = OpenAI(
 
     base_url="https://openrouter.ai/api/v1",
 
-    api_key="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"
+    api_key="api_key="YOUR_API_KEY""
 
 )
 
